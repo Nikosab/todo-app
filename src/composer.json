@@ -1,8 +1,0 @@
-{
-    "require": {
-        "nesbot/carbon": "^2.72",
-        "symfony/console": "^5.4",
-        "symfony/polyfill-mbstring": "^1.29",
-        "symfony/polyfill-ctype": "^1.29"
-    }
-}
